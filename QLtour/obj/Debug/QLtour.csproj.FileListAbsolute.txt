@@ -1,0 +1,160 @@
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\QLtour.dll.config
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\QLtour.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\QLtour.pdb
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Net.Http.Formatting.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Http.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Http.WebHost.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Providers.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Net.Http.Formatting.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Http.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Http.WebHost.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\obj\Debug\QLtour.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\obj\Debug\QLtour.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\đồ án\QLtour\QLtour\obj\Debug\QLtour.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\QLtour.dll.config
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\QLtour.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\QLtour.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\Antlr3.Runtime.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\EntityFramework.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\Microsoft.Web.Infrastructure.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\Newtonsoft.Json.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Net.Http.Formatting.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Http.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Http.WebHost.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Mvc.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Optimization.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Providers.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Razor.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.WebPages.Deployment.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.WebPages.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.WebPages.Razor.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\WebGrease.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\EntityFramework.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\Newtonsoft.Json.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Net.Http.Formatting.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Http.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Http.WebHost.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Mvc.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.Razor.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.WebPages.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.WebPages.Deployment.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\bin\System.Web.WebPages.Razor.xml
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\obj\Debug\QLtour.dll
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\obj\Debug\QLtour.pdb
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\QLtour.dll.config
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\QLtour.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\QLtour.pdb
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Net.Http.Formatting.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Http.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Http.WebHost.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Providers.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Net.Http.Formatting.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Http.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Http.WebHost.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\obj\Debug\QLtour.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\obj\Debug\QLtour.dll
+C:\Users\ADMIN\Desktop\học\lập trình web\QLtour\QLtour\obj\Debug\QLtour.pdb
+D:\Nguyễn Phương Việt\2022-2023_Năm3-HK1\Lậptrìnhweb\BaoCao\QLtour\QLtour\obj\Debug\QLtour.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\QLtour\QLtour\obj\Debug\QLtour.csprojResolveAssemblyReference.cache
+C:\Users\Thịnh\Desktop\QLtour\QLtour\obj\Debug\QLtour.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\QLtour.dll.config
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\QLtour.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\QLtour.pdb
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\Antlr3.Runtime.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\EntityFramework.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\Newtonsoft.Json.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Net.Http.Formatting.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Http.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Http.WebHost.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Mvc.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Optimization.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Providers.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Razor.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.WebPages.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\WebGrease.dll
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\EntityFramework.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\Newtonsoft.Json.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Net.Http.Formatting.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Http.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Http.WebHost.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Mvc.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.Razor.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.WebPages.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thịnh\Desktop\QLtour\QLtour\obj\Debug\QLtour.pdb
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\QLtour.dll.config
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\QLtour.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\QLtour.pdb
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\Antlr3.Runtime.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\EntityFramework.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\Microsoft.Web.Infrastructure.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\Newtonsoft.Json.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Net.Http.Formatting.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Http.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Http.WebHost.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Mvc.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Optimization.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Providers.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Razor.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.WebPages.Deployment.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.WebPages.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.WebPages.Razor.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\WebGrease.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\EntityFramework.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\Newtonsoft.Json.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Net.Http.Formatting.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Http.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Http.WebHost.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Mvc.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.Razor.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.WebPages.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.WebPages.Deployment.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\bin\System.Web.WebPages.Razor.xml
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\obj\Debug\QLtour.csprojResolveAssemblyReference.cache
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\obj\Debug\QLtour.dll
+D:\HK1_2022-2023(HK5)\lap trinh web\QLtour\QLtour\obj\Debug\QLtour.pdb
